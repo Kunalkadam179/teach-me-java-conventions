@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="PowerFinderTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2023-10-05T07:23:20" hostname="kunal179" time="0.009">
+  <properties/>
+  <testcase name="testPower_of_2_and_3_Is_SIX" classname="PowerFinderTest" time="0.005"/>
+  <testcase name="testTwoRaised_to_one_is_2" classname="PowerFinderTest" time="0.0"/>
+  <testcase name="testOne_raised_to_one_is_one" classname="PowerFinderTest" time="0.001"/>
+  <testcase name="testTwo_power_2_is_4" classname="PowerFinderTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
